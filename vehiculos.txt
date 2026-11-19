@@ -1,0 +1,4 @@
+Coche, AA3, A
+Coche, 1234ABC, Descapotable
+Coche, 5678PDC, Seat Ibiza
+Moto, 1357GRW, Vespa
